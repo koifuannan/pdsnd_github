@@ -37,3 +37,6 @@ The data files used for the analysis are:
 
 * [Crating Links](https://anvilproject.org/guides/content/creating-links)
 * [Sample Markdown](https://github.com/harsimarsingh8/Udacity-Nanodegrees-Free-Courses)
+* [Tutorials on Numpy, Pandas](https://www.geeksforgeeks.org)
+* [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+* [Data Types](https://www.tutorialspoint.com/numpy/numpy_data_types.htm)
