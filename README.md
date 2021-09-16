@@ -6,6 +6,8 @@
 ### Project Title
 Bikeshare Project
 
+---
+
 ### Description
 <details>
 	<summary>Introduction</summary>
@@ -25,6 +27,9 @@ The solution interacts with the user by asking for user inputs which are then us
 Then appropriate analysis are done on the data as required.
 </details>
 
+
+---
+
 ### Files used
 
 The data files used for the analysis are:
@@ -32,6 +37,8 @@ The data files used for the analysis are:
 1. [chicago.csv]
 1. [new_york_city.csv]
 1. [washington.csv]
+
+---
 
 ### Credits
 
