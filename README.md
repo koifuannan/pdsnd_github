@@ -34,4 +34,6 @@ The data files used for the analysis are:
 1. [washington.csv]
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+* [Crating Links](https://anvilproject.org/guides/content/creating-links)
+* [Sample Markdown](https://github.com/harsimarsingh8/Udacity-Nanodegrees-Free-Courses)
