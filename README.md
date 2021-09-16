@@ -26,7 +26,12 @@ Then appropriate analysis are done on the data as required.
 </details>
 
 ### Files used
-Include the files used
+
+The data files used for the analysis are:
+
+1. [chicago.csv]
+1. [new_york_city.csv]
+1. [washington.csv]
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
