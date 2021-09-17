@@ -173,7 +173,9 @@ def trip_duration_stats(df):
     # TO DO: display total travel time
     """
     First we have to calculate the time difference and then find the sum of all the time difference
+    By first converting the End Time and Start Time to datatime and finding the difference between them
     """
+
     total_travel_time = (pd.to_datetime(df['End Time']) - pd.to_datetime(df['Start Time'])).sum()
 
     # TO DO: display mean travel time
