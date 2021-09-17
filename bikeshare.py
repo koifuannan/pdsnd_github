@@ -28,7 +28,6 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
 
-    
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while city not in CITY_DATA.keys():
         try:
@@ -239,8 +238,7 @@ def show_raw_data(df):
             return
         r_count += 5
 
-        dfDict  = df.iloc[r_count: r_count+5].to_dict('index')
-        for key, value in dfDict.items():
+        for key, value in df.iloc[r_count: r_count+5].to_dict('index').items():
             print(key, ':', value)
 
 
